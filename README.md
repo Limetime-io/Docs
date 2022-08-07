@@ -17,3 +17,6 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ---
 -->
+
+
+![This is an image](/images/home-login.png)
