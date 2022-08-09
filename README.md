@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Главная
 nav_order: 1
 description: "Документация для платформы и оборудования Лаймтайм"
 permalink: /
