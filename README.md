@@ -7,7 +7,15 @@ permalink: /
 ---
 
 
-# Документация по платформе и оборудованию Лаймтайм11
+# Документация
+
+![Limetime.io](/images/limetime-io.png)
+
+Документация по платформе и оборудованию Лаймтайм
+{: .fs-6 .fw-300 }
+
+
+
 {: .fs-9 }
 <!---
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
